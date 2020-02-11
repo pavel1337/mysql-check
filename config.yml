@@ -1,0 +1,4 @@
+mysql_address: "172.17.0.2:3306"
+mysql_timeout: "1" # in seconds
+mysql_user_password: "user:password"
+http_address: "localhost:4000"
